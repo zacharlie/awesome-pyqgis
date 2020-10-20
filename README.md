@@ -6,6 +6,8 @@ A list of awesome pyqgis resources
 
 * [PyQGIS Developer Cookbook](https://docs.qgis.org/3.10/en/docs/pyqgis_developer_cookbook/index.html)
 
+* [QGIS Python API Docs](https://qgis.org/pyqgis/3.0/)
+
 * [QGIS Documentation](https://docs.qgis.org/3.10/en/docs/)
 
 * [QGIS Resources](https://github.com/qgis/QGIS-Resources) - Resources to be used with the [QGIS Resource Sharing Plugin](http://qgis-contribution.github.io/QGIS-ResourceSharing/). This allows the quick sharing of various resources which can be readily used within QGIS including customised scripts, assets, processing tools and much more.
