@@ -10,7 +10,7 @@ A list of awesome pyqgis resources
 
 * [QGIS Resources](https://github.com/qgis/QGIS-Resources) - Resources to be used with the [QGIS Resource Sharing Plugin](http://qgis-contribution.github.io/QGIS-ResourceSharing/). This allows the quick sharing of various resources which can be readily used within QGIS including customised scripts, assets, processing tools and much more.
 
-* [Stack Exchange](https://gis.stackexchange.com)
+* [GIS Stack Exchange](https://gis.stackexchange.com) - The GIS Stack Exchange site.
 
 * [QGIS Mailing lists](http://osgeo-org.1560.x6.nabble.com) - You can search the QGIS mailing lists for conversations and code. A lot of useful information is available on the [QGIS Developer](http://osgeo-org.1560.x6.nabble.com/QGIS-Developer-f4099106.html) and [QGIS user](http://osgeo-org.1560.x6.nabble.com/QGIS-User-f4125267.html) lists if you know how to look for it.
 
