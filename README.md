@@ -1,5 +1,7 @@
 # Awesome PyQGIS
 
+![awesome-pyqgis](./media/logo.svg)
+
 A list of awesome pyqgis resources
 
 ## Community Resources
