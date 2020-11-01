@@ -6,6 +6,8 @@ A list of awesome pyqgis resources
 
 ## Community Resources
 
+* [PyQgist](https://zacharlie.github.io/pyqgist/)
+
 * [PyQGIS Developer Cookbook](https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/index.html)
 
 * [QGIS Python API Docs](https://qgis.org/pyqgis/latest/)
