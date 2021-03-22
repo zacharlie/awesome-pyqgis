@@ -6,6 +6,8 @@ A list of awesome pyqgis resources
 
 ## Community Resources
 
+* [QGIS Hub](https://plugins.qgis.org/models/): Download and share plugins, styles, projects and models
+
 * [PyQgist](https://zacharlie.github.io/pyqgist/)
 
 * [PyQGIS Developer Cookbook](https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/index.html)
@@ -19,6 +21,7 @@ A list of awesome pyqgis resources
 * [GIS Stack Exchange](https://gis.stackexchange.com): The GIS Stack Exchange site.
 
 * [QGIS Mailing lists](http://osgeo-org.1560.x6.nabble.com): You can search the QGIS mailing lists for conversations and code. A lot of useful information is available on the [QGIS Developer](http://osgeo-org.1560.x6.nabble.com/QGIS-Developer-f4099106.html) and [QGIS user](http://osgeo-org.1560.x6.nabble.com/QGIS-User-f4125267.html) lists if you know how to look for it. If you have questions that a search can't answer, you can get community support directly from the [QGIS Mailing Lists](https://www.qgis.org/en/site/getinvolved/mailinglists.html) as well.
+
 
 ## Plugin Resources
 
@@ -37,11 +40,16 @@ A list of awesome pyqgis resources
 * [HSR Rapperswil QGIS Python GeoPython workshop](https://github.com/geometalab/GeoPythonConf2018-QGIS-Processing-Workshop)
 * [PyQGIS tutorials by OpenSourceOptions](https://opensourceoptions.com/python/pyqgis_001_loadingrasters.html)
 * [QGIStutorials.com - Building a Python plugin](https://www.qgistutorials.com/en/docs/3/building_a_python_plugin.html)
+* [PyQGIS in a day - Course materials from Spatial Thoughts](https://courses.spatialthoughts.com/pyqgis-in-a-day.html)
+* [QGIS Lessons](https://changelog.qgis.org/en/qgis/lessons/)
+
 
 ## Snippets and templates
 
 A collection of awesome code snippets, tempaltes and boilerplate code for PyQGIS users
 
 * [QGIS-Processing](https://github.com/qgis/QGIS-Processing) - QGIS Processing snippets collection (unmaintained)
+
+* [Spatial Thoughts PyQGIS Projects](https://github.com/spatialthoughts/projects/tree/master/pyqgis) - Tutorials, projects and custom algorithms from Ujaval Gandhi and Spatial Thoughts
 
 * [effective-dollop](https://github.com/zacharlie/effective-dollop/tree/main/pyqgis) - Charlie's pyqgis snippets (YMMV)
